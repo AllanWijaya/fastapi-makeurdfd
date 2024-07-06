@@ -1,1 +1,1 @@
-!pip install fastapi
+fastapi==0.70.0
